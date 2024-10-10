@@ -5,7 +5,7 @@ function somar(){
 
     const paragrafo = document.querySelector(".resultado")
 
-    paragrafo.innerHTML = `Resultado: ${numero1 + numero2 + numero3}`
+    paragrafo.innerHTML = `resultado: ${numero1 + numero2 + numero3}`
 
 } 
 
